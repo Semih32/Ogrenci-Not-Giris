@@ -1,0 +1,9 @@
+using System;
+using System.Linq;
+
+if (string.IsNullOrWhiteSpace(ad) || string.IsNullOrWhiteSpace(yazar) || 
+    string.IsNullOrWhiteSpace(isbn) || string.IsNullOrWhiteSpace(sayfaStr))
+{
+    Console.WriteLine("Hata: Hiçbir alan boş bırakılamaz.");
+    return;
+} 

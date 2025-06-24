@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ogrenci_Not_Giris/1.0.0": {
+        "runtime": {
+          "Ogrenci_Not_Giris.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ogrenci_Not_Giris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

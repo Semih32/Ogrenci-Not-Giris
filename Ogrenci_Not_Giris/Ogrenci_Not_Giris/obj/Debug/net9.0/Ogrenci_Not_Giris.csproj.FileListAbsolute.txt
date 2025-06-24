@@ -1,0 +1,14 @@
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.AssemblyInfoInputs.cache
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.AssemblyInfo.cs
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.csproj.CoreCompileInputs.cache
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\bin\Debug\net9.0\Ogrenci_Not_Giris.exe
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\bin\Debug\net9.0\Ogrenci_Not_Giris.deps.json
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\bin\Debug\net9.0\Ogrenci_Not_Giris.runtimeconfig.json
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\bin\Debug\net9.0\Ogrenci_Not_Giris.dll
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\bin\Debug\net9.0\Ogrenci_Not_Giris.pdb
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.dll
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\refint\Ogrenci_Not_Giris.dll
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.pdb
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\Ogrenci_Not_Giris.genruntimeconfig.cache
+C:\Users\xx\OneDrive\Desktop\Porgramlama Dilleri-2\Ogrenci_Not_Giris\Ogrenci_Not_Giris\obj\Debug\net9.0\ref\Ogrenci_Not_Giris.dll
